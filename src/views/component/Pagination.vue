@@ -7,8 +7,8 @@
       :page-size="10"
       layout="total, prev, pager, next, jumper"
       :total="pager.total"
-      class="mt-20">
-    </el-pagination>
+      class="mt-20"
+    ></el-pagination>
   </div>
 </template>
 
@@ -19,20 +19,20 @@ export default {
       list: [],
       pager: {
         current: 1,
-        total: 99,
+        total: 99
       }
-    }  
+    };
   },
   methods: {
-    pagerChange(current) {
-    },
+    pagerChange(current) {},
     search() {
       // 总共的数据条数
-      var total = Math.ceil(60 * Math.random())
-      // 你的代码写下面 
+      var total = Math.ceil(60 * Math.random());
+      // 你的代码写下面
+      this.pager.total = total;
     }
   }
-}
+};
 </script>
 
 <style scoped></style>
