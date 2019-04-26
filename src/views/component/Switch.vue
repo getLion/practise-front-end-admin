@@ -1,5 +1,6 @@
 <template>
   <div class="main">
+    <el-switch v-model="value" on-text="开" off-text="关"></el-switch>
   </div>
 </template>
 
@@ -7,13 +8,11 @@
 export default {
   data() {
     return {
-
-    }  
+      value: true
+    };
   },
-  methods: {
-    
-  }
-}
+  methods: {}
+};
 </script>
 
 <style scoped></style>

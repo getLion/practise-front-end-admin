@@ -17,7 +17,7 @@ Fork 本项目。完成下面的任务。
     * [x] 输入框，文本域名，数字输入框(InputNumber)。 [任务描述](task/component/input.md)
     * [ ] 日期，时间选择器。 [任务描述](task/component/date-time-picker.md)
     * [x] 单选，多选框。 [任务描述](task/component/radio-checkbox.md)
-    * [ ] 开关。 [任务描述](task/component/switch.md)
+    * [x] 开关。 [任务描述](task/component/switch.md)
     * [ ] 下拉框(Select 选择器)。 [任务描述](task/component/select.md)
     * [ ] 级联下拉。 [任务描述](task/component/cascader.md)
     * [ ] 图片上传。 [任务描述](task/component/upload.md)
