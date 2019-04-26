@@ -11,10 +11,10 @@ Fork 本项目。完成下面的任务。
   * [x] 分页组件 [任务描述](task/component/pagination.md)
   * [x] 弹出框(Dialog 对话框) [任务描述](task/component/dialog.md)
   * [x] 信息提示 [任务描述](task/component/message.md)
-  * [ ] MessageBox 弹框 [任务描述](task/component/message-box.md)
+  * [x] MessageBox 弹框 [任务描述](task/component/message-box.md)
   * [x] 按钮 [任务描述](task/component/button.md)
   * [ ] 表单类组件
-    * [ ] 输入框，文本域名，数字输入框(InputNumber)。 [任务描述](task/component/input.md)
+    * [x] 输入框，文本域名，数字输入框(InputNumber)。 [任务描述](task/component/input.md)
     * [ ] 日期，时间选择器。 [任务描述](task/component/date-time-picker.md)
     * [ ] 单选，多选框。 [任务描述](task/component/radio-checkbox.md)
     * [ ] 开关。 [任务描述](task/component/switch.md)
